@@ -3,7 +3,7 @@
 
 	$unProducto = new Producto();
 	$unProducto->nombre = "Jugo";
-	$unProducto->setPrecio(36.90);
+	$unProducto->setPrecio(36.80);
 	$unProducto->setStock(99);
 
 	$unProducto->mostrarPrecio();
