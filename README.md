@@ -1,1 +1,1 @@
-# superphp
+# Esto es una muestra de cómo funciona el php sincronizado con GitHub
